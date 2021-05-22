@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: #017abf;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+    margin-left: 5px;
+}
+h2 {
+    font-size: 20px;
+    margin: 0px;
+}
+.conteiner {
+    background-color: #e3e5e6;
+    border-radius: 5px;
+    width: 240px;
+    padding: 5px;
+    box-shadow: 0 2px 2px rgb(0 0 0 / 30%);
+}
+p {
+    margin: 5px;
+    font-size: small;
+}
+.abajo {
+    color: lightslategray;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.tarea {
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: auto;
+    box-shadow: 0 2px 2px rgb(0 0 0 / 30%);
+}
