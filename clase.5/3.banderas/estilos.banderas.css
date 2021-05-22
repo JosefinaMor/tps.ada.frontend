@@ -1,0 +1,77 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: blanchedalmond;
+}
+.conteiner {
+    margin: 30px;
+    height: auto;
+    padding: 20px;
+}
+.bandera {
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 30%);
+    margin: 20px auto;
+}
+.franja-celeste {
+    height: 66px;
+    width: 300px;
+    background-color: lightskyblue;
+}
+.franja-blanca {
+    height: 66px;
+    width: 300px;
+    background-color: white;
+}
+.franja-roja {
+    height: 50px;
+    width: 300px;
+    background-color: #b5172f;
+}
+.franja-amarilla {
+    height: 100px;
+    width: 300px;
+    background-color: #f5c326;
+}
+.franja-azul {
+    height: 50px;
+    width: 300px;
+    background-color: #1e3a8c;
+}
+.franja-negra {
+    height: 66px;
+    width: 300px;
+    background-color: black;
+}
+.franja-amarilla1 {
+    height: 66px;
+    width: 300px;
+    background-color: #f5c326;
+}
+.franja-roja1 {
+    height: 66px;
+    width: 300px;
+    background-color: #b5172f;
+}
+.franja-naranja {
+    height: 66px;
+    width: 300px;
+    background-color: orange;
+}
+.franja-azul1 {
+    height: 66px;
+    width: 300px;
+    background-color: blue;
+}
+.franja-mitad-azul {
+    height: 100px;
+    width: 300px;
+    background-color: #005ab5;
+}
+.franja-mitad-amarillo {
+    height: 100px;
+    width: 300px;
+    background-color: #f7c904;
+}
