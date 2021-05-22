@@ -1,0 +1,61 @@
+
+ html, body {
+    height: 100%;
+}
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #1da1f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    padding: 20px;
+    height: auto;
+    width: 570px;
+    background-color: white;
+    border-radius: 6px;
+
+}
+.nombre {
+    display: block;
+    margin-left: 10px;
+    
+}
+h3,h4 {
+        margin: 0px;
+    }
+    hr {
+        border-style: solid;
+        opacity: 20%;
+        color: lightslategray;
+        margin-top: 20px;
+    margin-bottom: 20px;
+    }
+.usuario {
+    display: flex;
+    justify-content: flex-start;
+}
+.usuario img {
+    border-radius: 25px;
+}
+.texto p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.acciones{
+    display: flex;
+    justify-content: space-between;
+}
+.reaccion {
+    margin: 5px;
+}
+.reaccion strong {
+    margin-right: 5px;
+}
+.acciones a {
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}

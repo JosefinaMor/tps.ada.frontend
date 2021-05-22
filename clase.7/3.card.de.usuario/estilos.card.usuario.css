@@ -1,0 +1,73 @@
+html, body {
+    height: 100%;
+}
+body {
+    
+    background-color: #6944FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor {
+    font-family: "Quicksand", sans-serif;
+    height: auto;
+    width: 410px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px 20px;
+}
+img {
+border-radius: 50%;
+margin: 15px 10px;
+}
+h1 {
+    margin: 15px;
+}
+.usuario {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.usuario div p {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+.usuario div span {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.seccionCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.seccionCard h2 {
+    margin-bottom: 5px;
+}
+.centro {
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    padding: 10px 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.card div {
+    margin-left: 35px;
+    margin-right: 35px;;
+}
+
+.centro button {
+    height: 50px;
+    width: 200px;
+    background-color: #bc2174;
+    border-radius: 30px;
+    border: 0;
+    color: white;
+    font-size: 25px;
+    margin-top: 25px;
+}
