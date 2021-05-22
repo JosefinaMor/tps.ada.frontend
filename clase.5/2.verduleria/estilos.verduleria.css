@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: #a5d6a7;
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+}
+.conteiner {
+    height: 350px;
+    width: 310px;
+    margin-top: 150px;
+    padding: 30px;
+    background-color: #f7f7fc;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 30%);
+    text-align: center;
+} 
+.boton {
+    width: 160px;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 0 auto 10px;
+    background-color: white;
+    text-align: center;
+    border: solid 1px grey;
+}  
