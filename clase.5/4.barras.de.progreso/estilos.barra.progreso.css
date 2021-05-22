@@ -1,0 +1,55 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: cornflowerblue;
+    font-family: 'Mulish', sans-serif;
+}
+.conteiner {
+    border-radius: 20px;
+    background-color: pink;
+    border: solid 1px hotpink;
+    padding: 20px;
+    margin: auto;
+    width: 540px;
+    text-align: center;
+}
+.contenedor-barra {
+    border-radius: 20px;
+    border: solid 1px hotpink;
+    padding: 5px;
+    margin: 20px;
+    height: 60px;
+    width: 500px;
+}
+
+.barra-10 {
+    height: 60px;
+    width: 50px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
+.barra-25 {
+    height: 60px;
+    width: 125px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
+.barra-50 {
+    height: 60px;
+    width: 250px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
+.barra-75 {
+    height: 60px;
+    width: 375px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
+.barra-90 {
+    height: 60px;
+    width: 450px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
