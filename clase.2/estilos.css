@@ -1,0 +1,54 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.p1 {
+background-color: #9F4100;
+color: white;
+}
+.p2 {
+    background-color: #a04002;
+    color: white;
+}
+.p3 {
+    background-color: #C46522;
+    color: white;
+}
+.p4 {
+    background-color: #D17C3f;
+}
+.p5 {
+    background-color: #D09E4E;
+}
+.p6 {
+    background-color: rgb(188, 196, 231);
+}
+.p7 {
+    background-color: rgb(233, 174, 204);
+}
+.p8 {
+    background-color: rgb(236, 190, 213);
+}
+.p9 {
+    background-color: rgb(244, 208, 232);
+}
+.p10 {
+    background-color: rgb(242, 228, 233);
+}
+.p11 {
+    background-color: hsl(217, 33%, 35%);
+    color: white;
+}
+.p12 {
+    background-color: hsl(208, 35%, 33%);
+    color: white;
+}
+.p13 {
+    background-color: hsl(212, 27%, 48%);
+    color: white;
+}
+.p14 {
+    background-color: hsl(212, 39%, 65%);
+}
+.p15 {
+    background-color: hsl(209, 66%, 80%);
+}
