@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 220px;
+    width: 800px;
+    background-color: whitesmoke;
+    padding: 10px;
+    box-shadow: 2px 2px 2px black ;
+}
+div img {
+    margin: 0 10px;
+}
+.descripcionPeli {
+    margin-left: 20px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+.descripcionPeli h1 {
+    margin: 0;
+    font-weight: 700;
+}
+.descripcionPeli p {
+    max-width: 400px;
+}
+div span {
+    color: grey;
+}

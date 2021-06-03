@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+}
+.conteiner {
+    margin: 30px;
+    width: 760px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    padding: 30px;
+}
+.opciones {
+    margin-bottom: 50px;
+}
+.opciones span {
+    padding: 10px;
+    margin-right: 5px;
+}
+.boton {
+    height: 50px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+}
+hr {
+    border-style: solid;
+    opacity: 20%;
+    color: lightslategray;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h1 {
+    font-weight: 800;
+    font-size: 40px;
+}
