@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: lightpink;
+    padding: 20px;
+    margin: 0;
+}
+.conteiner {
+    height: 70%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    width: 200px;
+    border: solid hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainAside {
+    padding: 20px;
+    margin-left: 20px;
+    background-color: hotpink;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+.mainAside main {
+    flex-basis: 70%;
+    margin-left: 10px;
+    background-color: lightpink;
+    border: solid hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainAside aside {
+    margin-left: 10px;
+    background-color: lightpink;
+    border: solid hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+footer {
+    height: 200px;
+    margin-top: 20px;
+    background-color: hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
