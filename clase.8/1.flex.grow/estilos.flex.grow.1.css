@@ -1,0 +1,95 @@
+html, body {
+    height: 100%;
+}
+body {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: pink;
+}
+.conteiner {
+    max-height: 580px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: solid hotpink;
+    border-radius: 10px;
+    background-color: lightpink;
+}
+.cuadrado {
+    width: 250px;
+    height: 250px;
+    background-color: hotpink;
+    border-radius: 10px;
+    margin: 10px 5px;
+}
+.espacio {
+    flex-grow: 1;
+    height: 250px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+.cuadrado1 {
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
+    border-radius: 10px;
+    margin: 10px 5px;
+}
+.espacio1 {
+    margin: 0 10px;
+    flex-grow: 1;
+    height: 200px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+}
+.espacio2 {
+    margin: 0 10px;
+    flex-grow: 2;
+    height: 200px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+}
+.espacio3 {
+    margin: 0 10px;
+    flex-grow: 3;
+    height: 200px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+}
+.espacio4 {
+    flex-basis: 23%;
+    flex-grow: 1;
+    height: 250px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+.espacio5 {
+    flex-basis: 23%;
+    flex-grow: 2;
+    height: 250px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+.espacio6 {
+    flex-basis: 18%;
+    flex-grow: 1;
+    height: 250px;
+    background-color: whitesmoke;
+    border: solid hotpink;
+    border-radius: 10px;
+    margin: 0 10px;
+}
